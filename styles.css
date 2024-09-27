@@ -508,4 +508,13 @@ align-items: center;  }
   .navlink{
     font-size: 5px;
   }
+  .about-text-container{
+    padding: 5px;
+    order: 2;
+  }
+
+  .services-image{
+    margin-left: 0px;
+    order: 1;
+  }
 }
