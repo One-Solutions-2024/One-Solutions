@@ -143,12 +143,38 @@ footer {
   text-decoration: none;
   color: #fff;
   font-size: 0.8rem;
-  padding-left: 10px;
+  margin-right: 50px;
+  margin-top: 20px;
+}
+
+.social-links a:last-child{
+  margin-right: 0px;
+}
+.social-links{
+  display: flex;
+  flex-direction: row;
 }
 
 .social-links a:hover {
   color: #555;
 }
+.span-copy{
+  color: #37475A;
+  text-decoration: none;
+}
+.bottom-icons{
+  height: 50px;
+  width: 55px;
+}
+.bottom-icons-instagram{
+  height: 40px;
+  width: 40px;
+}
+.bottom-icons-linkedin{
+  height: 45px;
+  width: 50px;
+}
+
 
 .logo {
   height: 50px;
